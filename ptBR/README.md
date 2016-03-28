@@ -2,7 +2,7 @@
 
 O arquivo xml final gerado pelo RoadbookUnifiedModel terá a seguinte estrutura:
 
-'''
+```
 <Etapa>
   <Trechos>
     <Trecho>...</Trecho>
@@ -13,4 +13,4 @@ O arquivo xml final gerado pelo RoadbookUnifiedModel terá a seguinte estrutura:
     <Referencia>...</Referencia>
   </Referencias>
 </Etapa>
-'''
+```
