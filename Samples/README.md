@@ -8,4 +8,4 @@ So to generate this files use the classes to generate the xml and you can make t
 
 Just respect the file names and the image size in 531x212.
 
-In refence image tulip must have 201x210 to fit in [Rabbit Pilot](https://play.google.com/store/apps/details?id=com.rabbit.pilot) screen.
+In refence image, the tulip portion must have 201x210 to fit well in [Rabbit Pilot](https://play.google.com/store/apps/details?id=com.rabbit.pilot) screen.
