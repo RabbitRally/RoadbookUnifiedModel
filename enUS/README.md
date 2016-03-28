@@ -4,7 +4,7 @@ Stage - Root class
 Leg - Define the Leg speed and duration determined by distance interval
 Reference - Each tulip is a reference
 
-See [Samples/RumEnUsTest.cs] sample how to use it.
+See [Samples/RumEnUsTest.cs](Samples/RumEnUsTest.cs) sample how to use it.
 
 ### XML
 
