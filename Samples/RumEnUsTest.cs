@@ -1,8 +1,5 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using RoadbookUnifiedModel.enUS;
 
@@ -21,7 +18,7 @@ namespace ConverterTests
 			var l1 = new Leg();
 			l1.Number = 1;
 			l1.LegType = LegTypes.Displacement;
-            l1.KmInitial = 0;
+            		l1.KmInitial = 0;
 			l1.KmFinal = 1.5M;
 			l1.TimeInitial = TimeSpan.Zero;
 			l1.Duration = new TimeSpan(0, 3, 0);
@@ -75,6 +72,6 @@ namespace ConverterTests
 
 			var stagePT = new RoadbookUnifiedModel.ptBR.Etapa();
 			stagePT.LoadXml("RumEnUsTest.xml");
-        }
+        	}
 	}
 }
